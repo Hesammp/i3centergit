@@ -1,0 +1,17 @@
+gir init
+
+git add "filename" or git add -A
+
+git status			'che file haii hastan
+
+git -A 				'alle dateien werden hizugefügt
+
+git commit - '"mmasages"'
+
+git config --global user.email "you@example"
+git config --global user.email "Hesam.mp.studium@Gmail.com"
+
+git log
+
+git reset filename
+git checkout -- filename
